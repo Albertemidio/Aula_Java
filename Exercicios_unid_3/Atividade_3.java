@@ -5,7 +5,7 @@
 public class Atividade_3 {
     public static void main(String[] args) {
         int[] array = {4, 8, 15, 16, 23, 42};
-        int numeroProcurado = 1;
+        int numeroProcurado = 15;
 
         int posicao = buscaLinear(array, numeroProcurado);
 

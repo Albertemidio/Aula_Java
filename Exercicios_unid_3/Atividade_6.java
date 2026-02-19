@@ -1,3 +1,7 @@
+//6 - BFS em Grafos:
+//Implemente o algoritmo de Busca em Largura (BFS) para encontrar o caminho mais curto entre dois
+//nós em um grafo não ponderado.
+
 import java.util.*;
 
 public class Atividade_6 {

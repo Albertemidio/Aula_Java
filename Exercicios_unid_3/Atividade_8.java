@@ -1,3 +1,6 @@
+//8 - Mínimo de uma BST:
+//Escreva um método para encontrar o menor valor em uma árvore binária de busca.
+
 public class Atividade_8 {
     static class No {
     int valor;
